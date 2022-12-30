@@ -58,7 +58,7 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   fonts:
-    - family: TYPOGRAPH PRO
+    - family: TYPOGRAPH PRO2
       fonts:
         - asset: data/fonts/TYPOGRAPH PRO Extra Bold.ttf
         - asset: data/fonts/TYPOGRAPH PRO Semi Bold.ttf

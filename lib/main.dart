@@ -25,7 +25,7 @@ class MyBodyState extends State<MyBody> {
         _array.addAll(['$index', '${index + 1}', '${index + 2}']);
 
       return Text("2 ^ " + _array[index] + " = " + pow(2, int.parse(_array[index]).toDouble()).toStringAsFixed(0),
-      style: TextStyle(fontFamily: 'TYPOGRAPH PRO', fontSize: 32));
+      style: TextStyle(fontFamily: 'TYPOGRAPH PRO2', fontSize: 32));
     });
   }
 }
